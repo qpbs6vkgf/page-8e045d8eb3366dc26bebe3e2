@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "ceda2e44217aa3c3464e6b9a",
+  "owner": "qpbs6vkgf",
+  "repo": "page-8e045d8eb3366dc26bebe3e2",
+  "title": "STC",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e045d8eb3366dc26bebe3e2",
+      "a": "STC",
+      "b": "免费订阅分享",
+      "entity": "STC",
+      "brand": "STC",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "71c9f3cdc993e399b11fb07405959bd54ed4b28185153da9d584672068ed0538",
+      "content": {
+        "primary_entity": "STC",
+        "keyword1": "STC",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器各有适配客户端，按系统版本选择 Stable 或 Beta 通道。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先比较流量与设备数，再按常用设备导入订阅，让 STC 跑满本地带宽。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，它把不同地区的节点线路按设备数量与流量档位打包，方便在手机、电脑和路由器上配置订阅。基础版适合单人日常浏览，旗舰版加入专线优化兼顾流媒体与游戏，团队版面向多设备团队协作。选套餐时先看每月流量与并发设备数，再结合年付折扣决定周期。",
+          "AI_FEATURES_INTRO": "从单人日常到团队多设备，三个维度帮助锁定合适档位。",
+          "AI_FEATURES_TITLE": "选套餐看三点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 够单人移动端与笔记本轻度使用，年付折算每月约 12.5 元。",
+          "AI_FEATURE_TEXT_2": "旗舰版 300GB 与 5 台设备，带 IPLC 专线，适合游戏与高清流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版 1000GB 与 20 台设备，支持定制路由，适合多成员协同办公。",
+          "AI_FEATURE_TITLE_1": "按流量档位挑",
+          "AI_FEATURE_TITLE_2": "按设备数量挑",
+          "AI_FEATURE_TITLE_3": "按协同场景挑",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成 STC 配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "STC 提供海外加速订阅服务，覆盖基础、旗舰与团队三档套餐，按每月流量与同时在线设备数区分。在客户端填入订阅地址即可使用，年付方案比月付更省。",
+          "AI_HERO_SUBTITLE": "多档套餐按需连接",
+          "AI_HIGHLIGHT_1": "100GB 到 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备灵活在线",
+          "AI_HIGHLIGHT_3": "年付方案约省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850，按设备数和流量选档即可。",
+          "AI_PLANS_TITLE": "三档套餐并排比",
+          "AI_STEP_TEXT_1": "确认常用设备数量与每月流量，在基础、旗舰、团队中选对应档位。",
+          "AI_STEP_TEXT_2": "对照客户端文档查看系统版本与配置格式要求。",
+          "AI_STEP_TEXT_3": "在客户端粘贴订阅地址并更新节点，按文档完成导入设置。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅地址",
+          "AI_VISUAL_TITLE": "STC 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路差异。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的线路有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版使用普通线路节点池，适合网页浏览与常规访问；旗舰版提供全节点原生流媒体解锁，并加入 IPLC 专线优化游戏延迟。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出并发数量时新设备可能无法连接，可升级套餐解决。",
+          "AI_FAQ_QUESTION_3": "年付比月付节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按十个月计价。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、20 台设备并发，配有 VIP 专属高带宽节点、企业定制路由与专属客户经理，适合小组或工作室集中使用。",
+          "AI_FAQ_QUESTION_5": "套餐按月付费和按年付费怎么选？",
+          "AI_FAQ_ANSWER_5": "短期或不确定使用时长时可选月付，随时调整档位；长期稳定使用可选年付，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于十个月价格覆盖全年。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "437cfd3c568cdd11ce8384702b62bd27fc0a6b9e3fd0258480b0831c11c5fda5",
+    "sitemap.xml": "852a25f35366d8204b53b3390a4b23c2736a05bee31610709bfe8ecdc06ac08a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3e8da7e70d4dc5fcef64540db3eea80032f7a6228d7d63c8296708282186da60"
+}
